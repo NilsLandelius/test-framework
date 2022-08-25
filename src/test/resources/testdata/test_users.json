@@ -1,0 +1,20 @@
+{
+  "user1": {
+    "id": "966e7d47-21c5-4b8d-9339-c62b5cdf5b89",
+    "dateCreated": "2022-06-14 10:27:11.562",
+    "firstname": "Emil",
+    "lastUpdated": "2022-06-14 10:27:11.562",
+    "lastname": "Jonsson",
+    "email": "fake@gmail.com",
+    "registredAt": "2022-06-14 10:27:11.562"
+  },
+  "user2": {
+    "id": "38cd0ed1-1a68-4bbe-a6fd-f485555f5e10",
+    "dateCreated": "2022-06-14 10:27:11.562",
+    "firstname": "Anders",
+    "lastUpdated": "2022-06-14 10:27:11.562",
+    "lastname": "Waernulf",
+    "email": "fake@gmail.com",
+    "registredAt": "2022-06-14 10:27:11.562"
+  }
+}
